@@ -19,7 +19,7 @@ Parsley.addMessages('ro', {
   range:          "Valoarea trebuie să fie între %s și %s.",
   minlength:      "Trebuie să scrii cel puțin %s caractere.",
   maxlength:      "Trebuie să scrii cel mult %s caractere.",
-  length:         "Trebuie să scrii cel puțin %s și %s cel mult %s caractere.",
+  length:         "Trebuie să scrii cel puțin %s și cel mult %s caractere.",
   mincheck:       "Trebuie să alegi cel puțin %s opțiuni.",
   maxcheck:       "Poți alege maxim %s opțiuni.",
   check:          "Trebuie să alegi între %s sau %s.",
